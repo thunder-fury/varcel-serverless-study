@@ -105,3 +105,4 @@ dist
 
 # build file
 api
+.vercel
